@@ -1,0 +1,39 @@
+body{
+	background-image: url("images/asphalt.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding: 20% 20%;
+	color: #fafafa;
+	font-size: 2em;
+
+}
+h1{
+	font-size: 2.5em;
+}
+
+ul {
+	list-style-type: none;
+}
+li a{
+	color: #fafafa;
+}
+#box{
+	border-radius: 20px;
+	text-align: center;
+	width:80%;
+	background-color: #979797;
+	padding-bottom: 1%;
+}
+#vote a{
+	color: #000000;
+	margin-top: 20px;
+}
+
+.btn{
+	margin-top: 5px;
+}
+
+
+
